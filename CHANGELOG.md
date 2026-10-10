@@ -1,7 +1,7 @@
 # 更新日志
 
 以发布批次为单位记录，标注对应显示版本号。后台「关于 → 版本更新」比对的是
-[kadidalax/cf-vps-monitor](https://github.com/kadidalax/cf-vps-monitor) `main` 分支的最新提交编码。
+[ropz339/cf-vps-monitor](https://github.com/ropz339/cf-vps-monitor) `main` 分支的最新提交编码。
 
 > 🔴 本批改动了数据库迁移，更新后须到 `/db-init` 重新应用，否则新功能静默失效；重跑不会清空已有数据与节点 Token。　🟢 无需初始化。
 
